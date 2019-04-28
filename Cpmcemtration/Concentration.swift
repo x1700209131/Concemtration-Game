@@ -35,6 +35,7 @@ class Concentration{
         }
     }
     
+    
     init(numberOfPairsOfCard: Int) {
         for _ in 1...numberOfPairsOfCard {
             let card = Card()
