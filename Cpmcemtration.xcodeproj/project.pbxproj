@@ -58,12 +58,12 @@
 		42163D4522728777009A08AD /* Cpmcemtration */ = {
 			isa = PBXGroup;
 			children = (
-				4208B1CF2275383E002E2A30 /* Concentration.swift */,
 				4208B1D12275391A002E2A30 /* Card.swift */,
+				4208B1CF2275383E002E2A30 /* Concentration.swift */,
+				42163D5222728779009A08AD /* Info.plist */,
+				42163D4A22728777009A08AD /* Main.storyboard */,
 				42163D59227288E8009A08AD /* Supporting Files */,
 				42163D4822728777009A08AD /* ViewController.swift */,
-				42163D4A22728777009A08AD /* Main.storyboard */,
-				42163D5222728779009A08AD /* Info.plist */,
 			);
 			path = Cpmcemtration;
 			sourceTree = "<group>";
