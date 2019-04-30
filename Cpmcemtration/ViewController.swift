@@ -30,7 +30,6 @@ class ViewController: UIViewController {
         } else {
             print("chosen card was not in cardButtons")
         }
-       
     }
     
     func updateViewFromModel()  {
@@ -48,7 +47,7 @@ class ViewController: UIViewController {
     }
 
     
-    var emojiChoices = ["🦇", "😱", "🙀", "😈", "🎃", "👻", "🍭", "🍬", "🍎"]
+    var emojiChoices = ["🦇", "😱", "🙀", "😈", "🎃", "👻", "🍭", "🍬", "🍎", "👀", "🐼", "🐔", "🚒", "❤️"]
     
     var emoji =  Dictionary<Int,String>() //字典的特殊语法糖  var emoji = [INt:String]()
 
